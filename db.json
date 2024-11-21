@@ -1,0 +1,79 @@
+{
+  "allvideos": [
+    {
+      "id": "a909",
+      "caption": "new",
+      "imageUrl": "https://cdn.gulte.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-19-at-7.30.24-PM.jpeg",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU"
+    }
+  ],
+  "category": [
+    {
+      "id": "4422",
+      "allvideos": [
+        {
+          "id": "aaaf",
+          "caption": "Kishkindha kandam",
+          "imageUrl": "https://cdn.123telugu.com/content/wp-content/uploads/2024/11/ki.jpg",
+          "utubeUrl": "https://www.youtube.com/embed/kIuh14TNzw8"
+        },
+        {
+          "id": "d117",
+          "caption": "new",
+          "imageUrl": "https://cdn.gulte.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-19-at-7.30.24-PM.jpeg",
+          "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU"
+        }
+      ]
+    }
+  ],
+  "History": [
+    {
+      "id": "c7cc",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "12/11/2024, 10:36:58 am"
+    },
+    {
+      "id": "8f71",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "12/11/2024, 10:37:45 am"
+    },
+    {
+      "id": "97ec",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "12/11/2024, 10:40:51 am"
+    },
+    {
+      "id": "94ce",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "13/11/2024, 12:45:28 pm"
+    },
+    {
+      "id": "3c4b",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "13/11/2024, 12:45:44 pm"
+    },
+    {
+      "id": "b2b8",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "14/11/2024, 9:54:17 am"
+    },
+    {
+      "id": "9ad7",
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "14/11/2024, 9:56:57 am"
+    },
+    {
+      "caption": "new",
+      "utubeUrl": "https://www.youtube.com/embed/ru5Cku2t1JU",
+      "formatedate": "21/11/2024, 10:19:56 pm",
+      "id": "4rP1fBQ"
+    }
+  ]
+}
